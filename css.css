@@ -1,0 +1,56 @@
+button {
+    width: 59px;
+    height: 59px;
+    font-size: 42px;
+    color: #ffffff00;
+    margin: 1px;
+    background-color: rgb(236, 231, 231);
+    border-color: rgb(224, 224, 224);
+    border-style: solid;
+}
+button:disabled{
+    width: 59px;
+    height: 59px;
+    font-size: 42px;
+    color: #ffffff00;
+    margin: 1px;
+    background-color: rgb(236, 231, 231);
+    border-color: rgb(224, 224, 224);
+}
+#start {
+    width: 59px;
+    height: 59px;
+    font-size: 42px;
+    color: #ffffff00;
+    margin: 1px;
+}
+.giveGrey{
+    background-color: gray;
+    height:40px;
+    border:0;
+    font-size:50px;
+    width:60px;
+    font-family:"Sans Serif";
+}
+span{
+    font-size: 45px;
+}
+#start
+{
+    background-color: rgb(236, 231, 231);
+    width: auto;
+    color: black;
+    float: left;
+    border-radius: 10px;
+}
+h1{
+    float:none;
+}
+div > #kosc{
+    float: left;
+}
+body{
+    margin-left: 30%;
+    background-color: grey;
+    margin-right: auto;
+}
