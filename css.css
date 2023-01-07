@@ -54,3 +54,13 @@ body{
     background-color: grey;
     margin-right: auto;
 }
+.info{
+    background-color: gainsboro;
+    height:40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size:30px;
+    width:200px;
+    font-family:"Sans Serif";
+    color: #000;
+}
